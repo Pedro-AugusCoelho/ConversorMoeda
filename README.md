@@ -47,6 +47,7 @@ Desenvolvido utilizando as seguintes tecnologias:
 - [JavaScript](https://www.javascript.com/)
 - [ReactJs](https://pt-br.reactjs.org/)
 - [Styled-components](https://styled-components.com/)
+- [Awesomeapi](https://docs.awesomeapi.com.br/api-de-moedas)
 
 ****************
 
