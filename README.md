@@ -10,7 +10,7 @@ A aplicação contém as seguintes funcionalidades:
 
 ### Index.html 📕
 
-- [x] Fazer a conversão de Dólar americano em Real brasileiro.
+- [x] Faz a conversão de Dólar americano em Real brasileiro.
 
 ## Pré-requisitos
 - [x] Antes de começar, é bom ter instalado em sua maquina a seguinte ferramenta: [GIT](https://git-scm.com/) um editor para trabalhar com o codigo como o [VSCode](https://code.visualstudio.com/)
@@ -36,7 +36,7 @@ $ npm start
 
 ## Em desenvolvimento 🚧
 
-- [ ] Fazer a conversão com outras moedas internacionais
+- [ ] Desenvolver a conversão com outras moedas internacionais
 
 ## Tecnologias 🛠
 
